@@ -1,0 +1,23 @@
+{
+  "name": "web-dev-project-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpumki/web-dev-project-backend.git"
+  },
+  "author": "Junho & Kathy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpumki/web-dev-project-backend/issues"
+  },
+  "homepage": "https://github.com/jpumki/web-dev-project-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.1.0"
+  }
+}
